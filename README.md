@@ -1,4 +1,4 @@
-# -DQN-Mountain-Car
+# DQN Mountain Car (Discrete)
 
 # Overview
 
